@@ -9,3 +9,7 @@ function nowServing(line){
   }
   return line.shift()
 }
+
+array = []
+
+console.log(takeANumber(array, "T"))
