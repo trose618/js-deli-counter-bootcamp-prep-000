@@ -14,3 +14,4 @@ array = []
 
 console.log(takeANumber(array, "T"))
 console.log(takeANumber(array, "I"))
+console.log(nowServing(array))
