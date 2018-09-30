@@ -16,7 +16,7 @@ function currentLine(line){
   }
   let theLine = `The line is currently: 1. ${line[0]}`
   for(let i = 1; i < line.length;i++){
-    theLine = theLine + `, ${i}. ${line[i]} `
+    theLine = theLine + `, ${i+1}. ${line[i]}`
   }
 }
 
