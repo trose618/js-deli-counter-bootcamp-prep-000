@@ -13,3 +13,4 @@ function nowServing(line){
 array = []
 
 console.log(takeANumber(array, "T"))
+console.log(takeANumber(array, "I"))
