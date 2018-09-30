@@ -5,3 +5,4 @@ function takeANumber(line, name){
 }
 
 console.log(takeANumber([],"Terrance"))
+console.log(takeANumber([],"Ilyasah"))
