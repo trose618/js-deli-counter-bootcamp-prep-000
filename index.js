@@ -3,6 +3,6 @@ function takeANumber(line, name){
   //pos = line.length
   return `Welcome ${name}. You are number ${line.length} in line.`
 }
-
-console.log(takeANumber([],"Terrance"))
-console.log(takeANumber([],"Ilyasah"))
+var array = []
+console.log(takeANumber(array,"Terrance"))
+console.log(takeANumber(array,"Ilyasah"))
