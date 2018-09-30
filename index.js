@@ -20,9 +20,3 @@ function currentLine(line){
   }
   return theLine
 }
-
-array = []
-takeANumber(array, "T")
-takeANumber(array, "I")
-
-console.log(currentLine(array))
